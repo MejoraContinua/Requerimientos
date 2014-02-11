@@ -1,6 +1,6 @@
 Requerimientos
 ==============
-Este repositorio contione toda la información sofre la documento y estandarización de proyectos. 
+Este repositorio contiene toda la información sobre la documentación y estandarización de proyectos. 
 
 Revisar Archivo EstandarizaciónProyectos.docx
 
